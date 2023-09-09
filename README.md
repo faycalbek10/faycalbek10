@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faycalbek10
-- 👀 I’m interested in robotics , AI , embeded systems 
+- 👀 I’m interested in robotics , AI , embedded systems 
 - 🌱 I’m currently learning django framework
 - 💞️ I’m looking to collaborate on some web dev projects
 - 📫 How to reach me : 
