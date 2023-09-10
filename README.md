@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @faycalbek10
 - 👀 I’m interested in robotics , AI , embedded systems 
-- 🌱 I’m currently learning django framework
-- 💞️ I’m looking to collaborate on some web dev projects
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me : 
 binarybaker2.0@gmail.com
 
