@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faycalbek10
 - 👀 I’m interested in robotics , AI , embedded systems 
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently working on mechatronics projects
 - 📫 How to reach me : 
 binarybaker2.0@gmail.com
 
