@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faycalbek10
-- 👀 I’m interested in robotics , AI , embedded systems and many more I guess.... 
+- 👀 I’m interested in robotics , AI , embedded systems and many more .... 
 - 🌱 I’m currently working on mechatronics projects
 - 📫 How to reach me : 
 faycalbeki@gmail.com
